@@ -4,6 +4,7 @@
 - [Russia Actor Network Dashboard](https://peacerep.github.io/actor-network/)
 - [Implementation Narratives Tracker Interface](https://peacerep.github.io/implementation-narratives-tracker/)
 - [Implementation narratives data](https://github.com/peacerep/implementation_narratives_data)
+- [Agreement-Constitution Semantic Mapping Demonstrator](https://github.com/peacerep/agreement-constitution-mapping)
 
 ### 2022
 - [Ukraine Conflict Map](https://peacerep.github.io/ukraine-map)
