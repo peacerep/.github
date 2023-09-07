@@ -1,4 +1,4 @@
-## Data Visualisations & Maps by [PeaceRep](https://peacerep.org/) (formerly Political Settlements Research Programme) at the University of Edinburgh
+## Data Visualisations, Maps & Demonstrators by [PeaceRep](https://peacerep.org/) (formerly Political Settlements Research Programme) at the University of Edinburgh
 
 ### 2023
 - [Russia Actor Network Dashboard](https://peacerep.github.io/actor-network/)
