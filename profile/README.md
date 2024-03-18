@@ -4,7 +4,7 @@
 - [Implementation narratives data](https://github.com/peacerep/implementation_narratives_data)
 - [Agreement-Constitution Semantic Mapping Demonstrator](https://github.com/peacerep/agreement-constitution-mapping)
 - [Agreement-Implementation Reports Mapping Demonstrator](https://github.com/peacerep/implementation_narrative_summarisation_demo)
-- [Topic Discovery Demonstrator]()
+- [Topic Discovery Demonstrator](https://github.com/peacerep/topic-discovery-demo))
 
 ### 2023
 - [Russia Actor Network Dashboard](https://peacerep.github.io/actor-network/)
