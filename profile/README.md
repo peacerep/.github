@@ -3,7 +3,7 @@
 ### 2024
 - [Implementation narratives data](https://github.com/peacerep/implementation_narratives_data)
 - [Agreement-Constitution Semantic Mapping Demonstrator](https://github.com/peacerep/agreement-constitution-mapping)
-- [Implementation Narratives Summarisation Demonstrator](https://github.com/peacerep/implementation_narrative_summarisation_demo)
+- [Agreement-Impelmentation Reports Mapping Demonstrator](https://github.com/peacerep/implementation_narrative_summarisation_demo)
 - [Topic Discovery Demonstrator]()
 
 ### 2023
