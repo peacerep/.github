@@ -1,11 +1,14 @@
 ## Data Visualisations, Maps & Demonstrators by [PeaceRep](https://peacerep.org/) (formerly Political Settlements Research Programme) at the University of Edinburgh
 
-### 2023
-- [Russia Actor Network Dashboard](https://peacerep.github.io/actor-network/)
-- [Implementation Narratives Tracker Interface](https://peacerep.github.io/implementation-narratives-tracker/)
+### 2024
 - [Implementation narratives data](https://github.com/peacerep/implementation_narratives_data)
 - [Agreement-Constitution Semantic Mapping Demonstrator](https://github.com/peacerep/agreement-constitution-mapping)
 - [Implementation Narratives Summarisation Demonstrator](https://github.com/peacerep/implementation_narrative_summarisation_demo)
+- [Topic Discovery Demonstrator]()
+
+### 2023
+- [Russia Actor Network Dashboard](https://peacerep.github.io/actor-network/)
+- [Implementation Narratives Tracker Interface](https://peacerep.github.io/implementation-narratives-tracker/)
 
 ### 2022
 - [Ukraine Conflict Map](https://peacerep.github.io/ukraine-map)
