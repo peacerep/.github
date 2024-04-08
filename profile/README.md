@@ -1,6 +1,7 @@
 ## Data Visualisations, Maps & Demonstrators by [PeaceRep](https://peacerep.org/) (formerly Political Settlements Research Programme) at the University of Edinburgh
 
 ### 2024
+- [Cluster demo](https://github.com/peacerep/cluster_demo)
 - [Implementation narratives data](https://github.com/peacerep/implementation_narratives_data)
 - [Agreement-Constitution Semantic Mapping Demonstrator](https://github.com/peacerep/agreement-constitution-mapping)
 - [Agreement-Implementation Reports Mapping Demonstrator](https://github.com/peacerep/agreement-report-mapping)
