@@ -1,6 +1,11 @@
 ## Data Visualisations, Maps & Demonstrators by [PeaceRep](https://peacerep.org/) (formerly Political Settlements Research Programme) at the University of Edinburgh
 
+### Style Guide/Logos:
+- [PeaceRep Vis Guide] (https://github.com/peacerep/logos)
+
 ### 2024
+- [PAA-X Data](https://github.com/peacerep/paax_data)
+- [PA-X Local Map](https://github.com/peacerep/pax_local)
 - [Cluster demo](https://github.com/peacerep/cluster_demo)
 - [Implementation narratives data](https://github.com/peacerep/implementation_narratives_data)
 - [Agreement-Constitution Semantic Mapping Demonstrator](https://github.com/peacerep/agreement-constitution-mapping)
