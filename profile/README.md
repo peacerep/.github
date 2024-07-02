@@ -1,7 +1,7 @@
 ## Data Visualisations, Maps & Demonstrators by [PeaceRep](https://peacerep.org/) (formerly Political Settlements Research Programme) at the University of Edinburgh
 
 ### Style Guide/Logos:
-- [PeaceRep Vis Guide](https://github.com/peacerep/logos)
+- [PeaceRep Vis Guide](https://peacerep.github.io/logos/)
 
 ### 2024
 - [PAA-X Data](https://github.com/peacerep/paax_data)
