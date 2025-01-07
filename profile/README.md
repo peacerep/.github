@@ -3,6 +3,9 @@
 ### Style Guide/Logos:
 - [PeaceRep Vis Guide](https://peacerep.github.io/logos/)
 
+### 2025
+- [PA-X Tracker Globe](https://peacerep.github.io/tracker_globe/) [repo](https://github.com/peacerep/tracker_globe)
+
 ### 2024
 - [PAA-X Data](https://github.com/peacerep/paax_data)
 - [PA-X Local Map](https://github.com/peacerep/pax_local)
